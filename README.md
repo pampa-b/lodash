@@ -1,4 +1,4 @@
-# lodash
+# lodash - Modern JS Utility. 
 
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
